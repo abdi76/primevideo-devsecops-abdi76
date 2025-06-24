@@ -17,7 +17,7 @@ pipeline {
       steps {
         git branch: 'main',
             credentialsId: 'github-token',
-            url: 'https://github.com/kirankumaritth/amazon-prime-video-devsecops.git'
+            url: 'https://github.com/abdi76/primevideo-devsecops-abdi76.git'
       }
     }
 
